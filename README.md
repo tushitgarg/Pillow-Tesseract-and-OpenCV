@@ -1,0 +1,1 @@
+# Pillow-Tesseract-and-OpenCV
